@@ -1,0 +1,52 @@
+/* Body section */
+body{
+    background: scroll;
+    background: url(/img/cover2.jpg);
+    background-size: 1385px 165px ;
+    background-repeat: no-repeat;
+}
+/* welcome section start */
+#welcome{
+color: rgb(252, 6, 190);
+text-align: center;
+}
+#welcome-note{ 
+color: rgb(252, 198, 238);
+text-align: center;
+}
+/* welcome section stop */
+
+/* Logo section start */
+.Hlogo{
+    display: inline-block;
+    size: 20px 20px;
+    margin-top: 8px;
+    margin-left: 0px;
+    border: 2px solid red;
+}
+#homeimg{height: 60px; width: 110px;
+}
+/* welcome section stop */
+
+#homepragraph{ 
+    color: black;
+    text-align: justify;
+    max-width: 95%;
+    font-size: 17px;
+}
+/* paragraph close */
+#About{
+    display: inline-block;
+    text-decoration: none;
+    border: 3px solid navy;
+    font-size: 23px;
+    background-color: aqua;
+    
+}
+#Fastion{
+    display: inline-block;
+    text-decoration: none;
+    border: 3px solid navy;
+    font-size: 23px;
+    background-color: rgb(234, 0, 255);  
+}
