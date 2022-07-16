@@ -26,7 +26,7 @@ text-align: center;
 }
 #homeimg{height: 60px; width: 110px;
 }
-/* welcome section stop */
+/* Logo section stop */
 
 #homepragraph{ 
     color: black;
@@ -38,15 +38,6 @@ text-align: center;
 #About{
     display: inline-block;
     text-decoration: none;
-    border: 3px solid navy;
     font-size: 23px;
-    background-color: aqua;
     
-}
-#Fastion{
-    display: inline-block;
-    text-decoration: none;
-    border: 3px solid navy;
-    font-size: 23px;
-    background-color: rgb(234, 0, 255);  
 }
