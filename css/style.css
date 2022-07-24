@@ -1,20 +1,7 @@
 /* Body section */
 body{
-    background: scroll;
-    background: url(/img/cover2.jpg);
-    background-size: 1385px 165px ;
-    background-repeat: no-repeat;
+background-color: rgb(252, 234, 212);
 }
-/* welcome section start */
-#welcome{
-color: rgb(252, 6, 190);
-text-align: center;
-}
-#welcome-note{ 
-color: rgb(252, 198, 238);
-text-align: center;
-}
-/* welcome section stop */
 
 /* Logo section start */
 .Hlogo{
@@ -22,19 +9,27 @@ text-align: center;
     size: 20px 20px;
     margin-top: 8px;
     margin-left: 0px;
-    border: 2px solid red;
 }
-#homeimg{height: 60px; width: 110px;
+#homeimg{height: 60px; width: 100px;
 }
 /* Logo section stop */
 
-#homepragraph{ 
-    color: black;
-    text-align: justify;
-    max-width: 95%;
-    font-size: 17px;
+/* welcome section start */
+.welcomec{
+    text-align: center;
+    color: rgb(255, 0, 0); 
 }
-/* paragraph close */
+#welcomenote{
+    font-size: larger;
+    color: rgb(0, 0, 0);
+}
+/* welcome section stop */
+
+#pragraph1{
+max-width: 100%;
+text-align: justify;
+}
+
 #About{
     display: inline-block;
     text-decoration: none;

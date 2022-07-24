@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(252, 234, 212);
+}
+.welcomesection{
+    text-align: center;
+}
+/* logo-section start */
+.Hlogo{
+    display: inline-block;
+    size: 20px 20px;
+    margin-top: 8px;
+    margin-left: 0px;
+}
+#homeimg{height: 60px; width: 100px;
+}
+/* logo section stop */
+#collegb{
+    width: 100%;
+    height: 720px;
+}
