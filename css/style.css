@@ -21,7 +21,7 @@ background-color: rgb(252, 234, 212);
 }
 #welcomenote{
     font-size: larger;
-    color: rgb(0, 0, 0);
+    color: rgb(57, 108, 250);
 }
 /* welcome section stop */
 
@@ -30,9 +30,28 @@ max-width: 100%;
 text-align: justify;
 }
 
-#About{
+/* link section */
+#collegeb{
+    text-decoration: none;
+    margin-left: 15%; 
+    font-size: 30px;
+    border: 3px solid red;
+}
+#schoolb{
+    text-decoration: none;
+    font-size: 30px;
+    border: 3px solid red;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+#AboutN{
     display: inline-block;
     text-decoration: none;
-    font-size: 23px;
-    
+    font-size: 30px;
+     margin-left: 34%;
+     border: 3px solid rgb(6, 41, 241);
+    color: black;
+     background-color: rgb(9, 212, 248);
+     padding: 12px;
 }

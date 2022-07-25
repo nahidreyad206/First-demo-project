@@ -14,23 +14,16 @@ body{
 #homeimg{height: 60px; width: 100px;
 }
 /* logo section stop */
-#collegb{
+#schoolb{
     width: 100%;
     height: 720px;
 }
-
 /* table section  */
 table,th,td{
     border: 2px solid black;
     border-collapse: collapse;
     padding: 18px;
     text-align: left;
-
-}
-#table1{
-    margin-left: 33%;
-}
-#table2{
     margin-left: 17%;
 }
 #cap2{
@@ -39,7 +32,7 @@ table,th,td{
 /* table section stop  */
 
 /* fottar */
-#schoollink{
+#collegelink{
     text-decoration: none;
     font-size: 25px;
     display: inline-block;
@@ -47,6 +40,7 @@ table,th,td{
     background-color: aqua;
     padding: 5px;
 }
+
 #AboutN{
     text-decoration: none;
     font-size: 27px;
